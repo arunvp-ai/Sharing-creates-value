@@ -4,7 +4,7 @@
 
 ## What we do
 
-We are building an end-to-end automated open source compliance toolchain ecosystem with open source tools as an open source project. To accomplish this we do the points listed below :
+We are building an end-to-end automated open source compliance toolchain ecosystem with open source tools as an open source project. To accomplish this we:
 * use existing independent tooling projects, the tools itself remain independent projects with their own set up 
 * provide reference workflows to allow their adoption
 * develop the concepts to ensure easy interoperability and integration in existing environments
@@ -24,7 +24,7 @@ We are developing this via an open source project because there is no "one fits 
 
 ## Why we are doing it
 
-It is our belief that Open Source license compliance toolchains has to be Open Source itself. Because this is the only way to provide the required transparency and flexibility to integrate the toolchains in an existing environment as well as being able to adopt to new technologies or new needs. We are convinced that such toolchains need to be fully and seamlessly integrated in the CI/CD workflows, since technology is changing faster than ever - the only way to cope with this is the open source approach. We want that everybody has full transparency about the software products (products in an abstract sense) this can only be achieved with a 100% open source approach. Last but not least open source is the only way to provide a sustainable solution.
+It is our belief that Open Source Software license compliance toolchains has to be Open Source Software itself. Because this is the only way to provide the required transparency and flexibility to integrate the toolchains in an existing environment as well as being able to adopt to new technologies or new needs. We are convinced that such toolchains need to be fully and seamlessly integrated in the CI/CD workflows, since technology is changing faster than ever - the only way to cope with this is the open source approach. We want that everybody has full transparency about the software products (products in an abstract sense) this can only be achieved with a 100% open source approach. Last but not least open source is the only way to provide a sustainable solution.
 
 ## How to get involved
 
