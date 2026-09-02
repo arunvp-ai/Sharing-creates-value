@@ -4,7 +4,7 @@
 
 ## What we do
 
-We are building an end-to-end automated open source compliance toolchain ecosystem with open source tools as an open source project. To accomplish this we:
+We are building an end-to-end automated open source compliance toolchain ecosystem with open source tools as an open source project. To accomplish this we do the following:
 * use existing independent tooling projects, the tools itself remain independent projects with their own set up 
 * provide reference workflows to allow their adoption
 * develop the concepts to ensure easy interoperability and integration in existing environments
